@@ -1,0 +1,5 @@
+- confronto
+    - sortear aleatoriamente se é um casco(-1) ou bomba(-2)
+- quem vence o confronto ganha um turbo(+ 1) aleatório.
+- Criar os 6 personagens.
+- Jogar com 3 personagens aleátorios
